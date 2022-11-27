@@ -64,7 +64,6 @@ pub mod tests {
             vec![50,10,40,70],
         );
         assert_eq!(ans, 120);
-        // assert_eq!(ans, 12);
     }
 
     // Input: startTime = [1,1,1], endTime = [2,3,4], profit = [5,6,4]
